@@ -12,6 +12,5 @@ Welcome to my GitHub profile! I am a librarian passionate about the educational 
 
 ## Connect With Me:
 - 📧 Email: [ana.mperes@outlook.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ana-luísa-moure-peres]
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions!
