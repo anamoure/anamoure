@@ -1,16 +1,25 @@
-# Hello, I'm Ana! 👋
+# Nice to meet you, I'm Ana! ⋆ 𓆝 𓆟 𓆞 𓆝 𓆟 ⋆
 
-<img src="https://github.com/anamoure/anamoure/blob/main/typing-hello-kitty.gif" alt="hello kitty" width="200"/>
+<img src="https://github.com/anamoure/anamoure/blob/main/typing-hello-kitty.gif" alt="hello kitty" width="170"/>
 
-## 📚 Librarian and Aspiring Front-End Developer
-Welcome to my GitHub profile! I am a librarian passionate about the educational sector, currently in the midst of a career transition. I am dedicating myself to self-taught study in front-end development, with a special focus on Vue.js and Tailwind CSS.
+## About me ↴
+I’m a 25-year-old student with a postgraduate degree in Library Science, expanding my knowledge into the field of IT, with a focus on big data, artificial intelligence, and machine learning. I’m eager to learn everything I can about this area because it’s incredibly fascinating, and I feel that the knowledge I’ll gain could significantly contribute to improving people’s lives.
 
-## What I'm Doing:
-- 🌱 Learning: Deep diving into front-end technologies, particularly Vue.js and Tailwind CSS.
-- 🎯 Goal: Transitioning into a front-end developer role where I can blend my library science background with new tech skills.
-- 🤝 Collaborating: Seeking opportunities to work on inspiring and innovative projects in the tech world.
+## Topics of study ↴
+- Python
+- Object-oriented programming
+- SQL
+- Exploratory Data Analysis
+- Machine Learning
+- Graph Mining
+- Analytical intelligence
+- Cloud computing
+- IoT
+- Agile methodology
+- Project management
 
-## Connect With Me:
-- 📧 Email: [ana.mperes@outlook.com]
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions!
+## ~~My world domination plan~~ ↴
+Since the world is a simulation, I’m going to learn the source code and analyze the data governing everyone's individual preferences and desires. This way, I’ll be able to create an algorithm to generate life experiences that make people happy and free of pain  (and create Hogwarts — that would be pretty cool too).
+  
+## Connect with me:
+- 📧 e-mail: [ana.mperes@outlook.com]
